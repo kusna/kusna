@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Stanley Macharia, a full stack web developer
+- 👋 Hi, I’m Stanley Macharia, a Full-Stack Web Developer and a Cloud Solutions Architect
 - 👀 I’m interested in web development, cloud computing, machine learning and AI
-- 🌱 I’m currently learning machine learning and cloud computing
+- 🌱 I’m currently learning machine learning and expanding my knowledge on cloud computing
 - 💞️ I’m looking to collaborate on any web project making use of cloud computing stacks and/or machine learning
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/stanley-macharia-7754312a/)
 
